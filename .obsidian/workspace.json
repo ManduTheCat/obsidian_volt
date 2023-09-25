@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/유닉스 와 리눅스 차이.md",
+                "file": "DATABACE/OBJECT/object.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/유닉스 와 리눅스 차이.md",
+                "file": "DATABACE/OBJECT/object.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/유닉스 와 리눅스 차이.md",
+                "file": "DATABACE/OBJECT/object.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/유닉스 와 리눅스 차이.md"
+                "file": "DATABACE/OBJECT/object.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "0a9fe4fa63863c3e",
   "lastOpenFiles": [
-    "OS/유닉스 와 리눅스 차이.md",
+    "DATABACE/OBJECT/object.md",
     "DATABACE/SQL/sql hint direct load insert.md",
+    "OS/유닉스 와 리눅스 차이.md",
     "Pasted image 20230913092719.png.md",
     "Pasted image 20230925135000.png.md",
     "OS/Pasted image 20230925135000.png",
