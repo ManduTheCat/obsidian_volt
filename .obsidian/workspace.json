@@ -33,8 +33,12 @@
             "id": "ffb2d8725414e654",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DATABACE/OBJECT/ROWNUM.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -104,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DATABACE/OBJECT/ROWNUM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DATABACE/OBJECT/ROWNUM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DATABACE/OBJECT/ROWNUM.md"
+              }
             }
           }
         ]
@@ -164,6 +172,8 @@
   "active": "ffb2d8725414e654",
   "lastOpenFiles": [
     "DATABACE/OBJECT/undoSegment.md",
+    "DATABACE/OBJECT/온라인 인덱스.md",
+    "DATABACE/OBJECT/ROWNUM.md",
     "DATABACE/lock/share lock.md",
     "DATABACE/lock/무제 파일.md",
     "DATABACE/lock/exclusive lock.md",
@@ -173,8 +183,6 @@
     "Pasted image 20230913092719.png.md",
     "OS/유닉스 와 리눅스 차이.md",
     "OS/Pasted image 20230925134900.png",
-    "DATABACE/OBJECT/ROWNUM.md",
-    "DATABACE/OBJECT/온라인 인덱스.md",
     "DATABACE/OBJECT",
     "DATABACE/SQL",
     "DATABACE",
