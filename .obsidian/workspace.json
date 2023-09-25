@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sql/sql hint direct load insert.md",
+                "file": "OS/유닉스 와 리눅스 차이.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sql/sql hint direct load insert.md",
+                "file": "OS/유닉스 와 리눅스 차이.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sql/sql hint direct load insert.md",
+                "file": "OS/유닉스 와 리눅스 차이.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sql/sql hint direct load insert.md"
+                "file": "OS/유닉스 와 리눅스 차이.md"
               }
             }
           }
@@ -161,9 +161,9 @@
   },
   "active": "d82a90a3765e3847",
   "lastOpenFiles": [
+    "sql/sql hint direct load insert.md",
     "sql",
     "OS/유닉스 와 리눅스 차이.md",
-    "sql/sql hint direct load insert.md",
     "tibero",
     "OS",
     "OS/Pasted image 20230925135000.png",
