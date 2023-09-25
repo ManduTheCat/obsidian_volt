@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database Session.md",
+                "file": "DATABACE/Session/Database Session.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database Session.md",
+                "file": "DATABACE/Session/Database Session.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database Session.md",
+                "file": "DATABACE/Session/Database Session.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database Session.md"
+                "file": "DATABACE/Session/Database Session.md"
               }
             }
           }
@@ -171,10 +171,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a1566c2498313376",
+  "active": "d82a90a3765e3847",
   "lastOpenFiles": [
+    "DATABACE/Session",
     "DATABACE/Object/온라인 인덱스.md",
-    "Database Session.md",
+    "DATABACE/Session/Database Session.md",
     "DATABACE/Object/ROWNUM.md",
     "DATABACE/SQL/sql hint direct load insert.md",
     "DATABACE/SQL/insert 를 빠르게 하는법.md",
