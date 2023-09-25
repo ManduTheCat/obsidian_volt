@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "92f393e83f7f81a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DATABACE/lock/exclusive lock.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DATABACE/Object.md",
+                "file": "DATABACE/lock/exclusive lock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DATABACE/Object.md",
+                "file": "DATABACE/lock/exclusive lock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DATABACE/Object.md"
+                "file": "DATABACE/lock/exclusive lock.md"
               }
             }
           }
@@ -146,8 +159,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d82a90a3765e3847",
+  "active": "92f393e83f7f81a7",
   "lastOpenFiles": [
+    "DATABACE/Lock.md",
     "DATABACE/Object.md",
     "DATABACE/SQL/sql hint direct load insert.md",
     "OS/유닉스 와 리눅스 차이.md",
