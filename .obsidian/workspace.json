@@ -23,8 +23,12 @@
             "id": "92f393e83f7f81a7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DATABACE/lock/exclusive lock.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DATABACE/lock/exclusive lock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DATABACE/lock/exclusive lock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DATABACE/lock/exclusive lock.md"
+              }
             }
           }
         ]
@@ -153,12 +161,12 @@
   },
   "active": "92f393e83f7f81a7",
   "lastOpenFiles": [
+    "DATABACE/lock/share lock.md",
     "DATABACE/Object/온라인 인덱스.md",
     "DATABACE/Object/ROWNUM.md",
     "DATABACE/Object",
     "DATABACE/Object/Undo Segment.md",
     "DATABACE/Object/Object.md",
-    "DATABACE/lock/share lock.md",
     "DATABACE/lock/Lock.md",
     "OS/유닉스 와 리눅스 차이.md",
     "DATABACE/lock/exclusive lock.md",
