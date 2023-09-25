@@ -1,0 +1,1 @@
+dml 작업할때 복구를 위해 데이터를 저장하 곳 오라클은 undo tablespace 와 undo segment 라는 구조를 가졌다.
