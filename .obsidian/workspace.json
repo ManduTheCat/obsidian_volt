@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATABACE/OBJECT/ROWNUM.md",
+                "file": "DATABACE/SQL/sql hint direct load insert.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DATABACE/OBJECT/ROWNUM.md",
+                "file": "DATABACE/SQL/sql hint direct load insert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DATABACE/OBJECT/ROWNUM.md",
+                "file": "DATABACE/SQL/sql hint direct load insert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DATABACE/OBJECT/ROWNUM.md"
+                "file": "DATABACE/SQL/sql hint direct load insert.md"
               }
             }
           }
@@ -169,11 +169,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ffb2d8725414e654",
+  "active": "d82a90a3765e3847",
   "lastOpenFiles": [
+    "DATABACE/SQL/insert 를 빠르게 하는법",
     "DATABACE/OBJECT/undoSegment.md",
-    "DATABACE/OBJECT/온라인 인덱스.md",
     "DATABACE/OBJECT/ROWNUM.md",
+    "DATABACE/OBJECT/온라인 인덱스.md",
     "DATABACE/lock/share lock.md",
     "DATABACE/lock/무제 파일.md",
     "DATABACE/lock/exclusive lock.md",
