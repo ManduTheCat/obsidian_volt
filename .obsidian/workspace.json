@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATABACE/lock/exclusive lock.md",
+                "file": "DATABACE/Lock.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DATABACE/lock/exclusive lock.md",
+                "file": "DATABACE/Lock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DATABACE/lock/exclusive lock.md",
+                "file": "DATABACE/Lock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DATABACE/lock/exclusive lock.md"
+                "file": "DATABACE/Lock.md"
               }
             }
           }
@@ -161,10 +161,11 @@
   },
   "active": "92f393e83f7f81a7",
   "lastOpenFiles": [
-    "DATABACE/Lock.md",
     "DATABACE/Object.md",
-    "DATABACE/SQL/sql hint direct load insert.md",
     "OS/유닉스 와 리눅스 차이.md",
+    "DATABACE/lock/exclusive lock.md",
+    "DATABACE/Lock.md",
+    "DATABACE/SQL/sql hint direct load insert.md",
     "Pasted image 20230913092719.png.md",
     "Pasted image 20230925135000.png.md",
     "OS/Pasted image 20230925135000.png",
@@ -176,7 +177,6 @@
     "DATABACE/OBJECT/온라인 인덱스.md",
     "DATABACE/lock/share lock.md",
     "DATABACE/lock/무제 파일.md",
-    "DATABACE/lock/exclusive lock.md",
     "DATABACE/lock",
     "DATABACE/OBJECT",
     "DATABACE/SQL",
