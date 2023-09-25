@@ -11,9 +11,11 @@
             "id": "668ea0425dc18b12",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "OS/Pasted image 20230925135000.png"
+                "file": "OS/유닉스 와 리눅스 차이.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -115,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/Pasted image 20230925135000.png",
+                "file": "OS/유닉스 와 리눅스 차이.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/Pasted image 20230925135000.png",
+                "file": "OS/유닉스 와 리눅스 차이.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/Pasted image 20230925135000.png"
+                "file": "OS/유닉스 와 리눅스 차이.md"
               }
             }
           }
@@ -179,6 +181,8 @@
   "active": "668ea0425dc18b12",
   "lastOpenFiles": [
     "OS/유닉스 와 리눅스 차이.md",
+    "Pasted image 20230925135000.png.md",
+    "OS/Pasted image 20230925135000.png",
     "OS/Pasted image 20230925134900.png",
     "DATABACE/SQL/insert 를 빠르게 하는법.md",
     "DATABACE/SQL/sql hint direct load insert.md",
@@ -190,7 +194,6 @@
     "DATABACE/lock/무제 파일.md",
     "DATABACE/lock/exclusive lock.md",
     "DATABACE/lock",
-    "OS/Pasted image 20230925135000.png",
     "Pasted image 20230913092719.png.md",
     "DATABACE/OBJECT",
     "DATABACE/SQL",
