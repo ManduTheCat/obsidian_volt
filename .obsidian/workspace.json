@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATABACE/lock/무제 파일.md",
+                "file": "DATABACE/OBJECT/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DATABACE/lock/무제 파일.md",
+                "file": "DATABACE/OBJECT/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DATABACE/lock/무제 파일.md",
+                "file": "DATABACE/OBJECT/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DATABACE/lock/무제 파일.md"
+                "file": "DATABACE/OBJECT/무제 파일.md"
               }
             }
           }
@@ -172,6 +172,7 @@
   "active": "ffb2d8725414e654",
   "lastOpenFiles": [
     "DATABACE/lock/share lock.md",
+    "DATABACE/OBJECT/무제 파일.md",
     "DATABACE/lock/무제 파일.md",
     "DATABACE/lock/exclusive lock.md",
     "DATABACE/SQL/sql hint direct load insert.md",
