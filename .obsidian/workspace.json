@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "온라인 인덱스.md",
+                "file": "Undo Segment.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "온라인 인덱스.md",
+                "file": "Undo Segment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "온라인 인덱스.md",
+                "file": "Undo Segment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "온라인 인덱스.md"
+                "file": "Undo Segment.md"
               }
             }
           }
@@ -162,9 +162,11 @@
   "active": "92f393e83f7f81a7",
   "lastOpenFiles": [
     "DATABACE/Object.md",
+    "Undo Segment.md",
+    "DATABACE/lock/share lock.md",
+    "DATABACE/lock/Lock.md",
     "온라인 인덱스.md",
     "ROWNUM.md",
-    "DATABACE/Lock.md",
     "OS/유닉스 와 리눅스 차이.md",
     "DATABACE/lock/exclusive lock.md",
     "DATABACE/SQL/sql hint direct load insert.md",
@@ -177,7 +179,6 @@
     "DATABACE/OBJECT/undoSegment.md",
     "DATABACE/OBJECT/ROWNUM.md",
     "DATABACE/OBJECT/온라인 인덱스.md",
-    "DATABACE/lock/share lock.md",
     "DATABACE/lock/무제 파일.md",
     "DATABACE/lock",
     "DATABACE/OBJECT",
