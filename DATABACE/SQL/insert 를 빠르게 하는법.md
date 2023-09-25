@@ -1,0 +1,1 @@
+[[sql hint direct load insert]]

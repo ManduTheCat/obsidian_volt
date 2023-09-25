@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "OS/Pasted image 20230925134900.png"
+                "file": "OS/Pasted image 20230925135000.png"
               }
             }
           },
@@ -45,16 +45,11 @@
             "id": "0a9fe4fa63863c3e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DATABACE/SQL/무제 파일.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DATABACE/SQL/무제 파일.md",
+                "file": "OS/Pasted image 20230925135000.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DATABACE/SQL/무제 파일.md",
+                "file": "OS/Pasted image 20230925135000.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DATABACE/SQL/무제 파일.md"
+                "file": "OS/Pasted image 20230925135000.png"
               }
             }
           }
@@ -181,10 +176,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d82a90a3765e3847",
+  "active": "668ea0425dc18b12",
   "lastOpenFiles": [
+    "OS/유닉스 와 리눅스 차이.md",
+    "OS/Pasted image 20230925134900.png",
+    "DATABACE/SQL/insert 를 빠르게 하는법.md",
     "DATABACE/SQL/sql hint direct load insert.md",
-    "DATABACE/SQL/무제 파일.md",
     "DATABACE/SQL/insert 를 빠르게 하는법",
     "DATABACE/OBJECT/undoSegment.md",
     "DATABACE/OBJECT/ROWNUM.md",
@@ -195,8 +192,6 @@
     "DATABACE/lock",
     "OS/Pasted image 20230925135000.png",
     "Pasted image 20230913092719.png.md",
-    "OS/유닉스 와 리눅스 차이.md",
-    "OS/Pasted image 20230925134900.png",
     "DATABACE/OBJECT",
     "DATABACE/SQL",
     "DATABACE",
