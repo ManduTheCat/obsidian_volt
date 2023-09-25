@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/유닉스 와 리눅스 차이.md",
+                "file": "DATABACE/SQL/sql hint direct load insert.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/유닉스 와 리눅스 차이.md",
+                "file": "DATABACE/SQL/sql hint direct load insert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/유닉스 와 리눅스 차이.md",
+                "file": "DATABACE/SQL/sql hint direct load insert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/유닉스 와 리눅스 차이.md"
+                "file": "DATABACE/SQL/sql hint direct load insert.md"
               }
             }
           }
@@ -159,10 +159,10 @@
   },
   "active": "b94f7d1b41d62a75",
   "lastOpenFiles": [
-    "Pasted image 20230913092719.png.md",
-    "OS/Pasted image 20230925134900.png",
-    "OS/유닉스 와 리눅스 차이.md",
     "OS/Pasted image 20230925135000.png",
+    "Pasted image 20230913092719.png.md",
+    "OS/유닉스 와 리눅스 차이.md",
+    "OS/Pasted image 20230925134900.png",
     "DATABACE/OBJECT/ROWNUM.md",
     "DATABACE/OBJECT/온라인 인덱스.md",
     "DATABACE/SQL/sql hint direct load insert.md",
