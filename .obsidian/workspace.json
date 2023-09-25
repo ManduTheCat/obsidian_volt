@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATABACE/OBJECT/object.md",
+                "file": "DATABACE/Object.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DATABACE/OBJECT/object.md",
+                "file": "DATABACE/Object.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DATABACE/OBJECT/object.md",
+                "file": "DATABACE/Object.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DATABACE/OBJECT/object.md"
+                "file": "DATABACE/Object.md"
               }
             }
           }
@@ -146,9 +146,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0a9fe4fa63863c3e",
+  "active": "d82a90a3765e3847",
   "lastOpenFiles": [
-    "DATABACE/OBJECT/object.md",
+    "DATABACE/Object.md",
     "DATABACE/SQL/sql hint direct load insert.md",
     "OS/유닉스 와 리눅스 차이.md",
     "Pasted image 20230913092719.png.md",
