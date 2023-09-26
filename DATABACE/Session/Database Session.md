@@ -22,3 +22,12 @@ conn 명령어로 세션을 열수 있다.
 ```sql
 alter system listener remote off
 ```
+2. 기존 세션을 다 죽인다
+```sql
+alter system kill session (세션 아읻, 세션 시리얼 번호);
+
+```
+
+### 세션을 죽이는 여러가지 방법
+
+
