@@ -17,3 +17,8 @@ conn 명령어로 세션을 열수 있다.
 
 
 ### 티베로에서 세션 모두 없애는 방법
+
+1. 추가적인 접속을 막는
+```sql
+alter system listener remote off
+```
