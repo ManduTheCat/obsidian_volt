@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATABACE/Object/Object.md",
+                "file": "DATABACE/Session/Database Session.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,8 +39,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DATABACE/Session/Database Session.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DATABACE/Session/Database Session.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DATABACE/Session/Database Session.md"
+              }
             }
           }
         ]
@@ -163,11 +166,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a1566c2498313376",
+  "active": "0a9fe4fa63863c3e",
   "lastOpenFiles": [
+    "DATABACE/Object/Object.md",
+    "DATABACE/Object/온라인 인덱스.md",
     "DATABACE/Session/Database Session.md",
     "DATABACE/Session",
-    "DATABACE/Object/온라인 인덱스.md",
     "DATABACE/Object/ROWNUM.md",
     "DATABACE/SQL/sql hint direct load insert.md",
     "DATABACE/SQL/insert 를 빠르게 하는법.md",
@@ -176,7 +180,6 @@
     "DATABACE/lock/share lock.md",
     "DATABACE/Object",
     "DATABACE/Object/Undo Segment.md",
-    "DATABACE/Object/Object.md",
     "OS/유닉스 와 리눅스 차이.md",
     "Pasted image 20230913092719.png.md",
     "Pasted image 20230925135000.png.md",
