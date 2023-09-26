@@ -11,12 +11,8 @@
             "id": "0a9fe4fa63863c3e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DATABACE/Session/Database Session.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -105,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DATABACE/Session/Database Session.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DATABACE/Session/Database Session.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DATABACE/Session/Database Session.md"
-              }
+              "state": {}
             }
           }
         ]
