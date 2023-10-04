@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "패치 할때 crf 파일 백업 꼭 해야한다.md",
+                "file": "cmrctl del service --name '이름' segsegv 상황.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "패치 할때 crf 파일 백업 꼭 해야한다.md",
+                "file": "cmrctl del service --name '이름' segsegv 상황.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "패치 할때 crf 파일 백업 꼭 해야한다.md",
+                "file": "cmrctl del service --name '이름' segsegv 상황.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "패치 할때 crf 파일 백업 꼭 해야한다.md"
+                "file": "cmrctl del service --name '이름' segsegv 상황.md"
               }
             }
           }
@@ -205,8 +205,8 @@
   },
   "active": "65ef94336d4e0c4f",
   "lastOpenFiles": [
-    "cmrctl del service --name '이름' segsegv 상황.md",
     "패치 할때 crf 파일 백업 꼭 해야한다.md",
+    "cmrctl del service --name '이름' segsegv 상황.md",
     "무제 폴더",
     "tac.md",
     "DATABACE/Session/Database Session.md",

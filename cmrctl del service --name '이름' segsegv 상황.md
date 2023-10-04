@@ -1,3 +1,16 @@
+
+```bash
+=====================================================================
+  CLUSTER     TYPE        NAME       STATUS           DETAIL         
+----------- -------- -------------- -------- ------------------------
+     COMMON  network         inter2       UP (private) 10.10.10.1/11019
+     COMMON  network           pub1       UP (public) enp0s8
+     COMMON  cluster            cls     DOWN inc: inter2, pub: pub1
+        cls  service         tibero     DOWN Database, Active Cluster (auto-restart: OFF)
+=====================================================================
+
+```
+
 ```bash
 [root@localhost.localdomain:/home/node1/tibero6]$ cmrctl del service --name tibero
 CM: SIGSEGV caught...  making callstack
