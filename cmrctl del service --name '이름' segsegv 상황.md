@@ -11,5 +11,5 @@ CM: SIGSEGV caught...  making callstack
     [05] 0x00007f035dc2fea5:0x00007f035d057ed0 = start_thread + 0x00c5
 
 ```
-
-해
+해결책 서비스를 밀고 다시 해보거나 바이너리 수정..? 확실치 않음
+ㅊ

@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "65ef94336d4e0c4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "패치 할때 crf 파일 백업 꼭 해야한다.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "92f393e83f7f81a7",
             "type": "leaf",
             "state": {
@@ -64,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cmrctl del service --name '이름' segsegv 상황.md",
+                "file": "패치 할때 crf 파일 백업 꼭 해야한다.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cmrctl del service --name '이름' segsegv 상황.md",
+                "file": "패치 할때 crf 파일 백업 꼭 해야한다.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cmrctl del service --name '이름' segsegv 상황.md"
+                "file": "패치 할때 crf 파일 백업 꼭 해야한다.md"
               }
             }
           }
@@ -191,10 +203,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0762eab441dd411d",
+  "active": "65ef94336d4e0c4f",
   "lastOpenFiles": [
-    "tac.md",
     "cmrctl del service --name '이름' segsegv 상황.md",
+    "패치 할때 crf 파일 백업 꼭 해야한다.md",
+    "무제 폴더",
+    "tac.md",
     "DATABACE/Session/Database Session.md",
     "Tibero",
     "DATABACE/Session/Worker Process.md",
@@ -224,7 +238,6 @@
     "DATABACE/SQL",
     "DATABACE",
     "tibero",
-    "OS",
     "Pasted image 20230913092425.png.md"
   ]
 }
