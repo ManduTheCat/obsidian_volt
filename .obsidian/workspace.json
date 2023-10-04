@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "cc45dd66a6b9e76d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tac.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0762eab441dd411d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "92f393e83f7f81a7",
             "type": "leaf",
             "state": {
@@ -39,7 +63,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DATABACE/Session/Database Session.md",
+                "file": "무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DATABACE/Session/Database Session.md",
+                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DATABACE/Session/Database Session.md"
+                "file": "무제 파일.md"
               }
             }
           }
@@ -166,10 +191,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0a9fe4fa63863c3e",
+  "active": "0762eab441dd411d",
   "lastOpenFiles": [
-    "DATABACE/Session/Worker Process.md",
+    "tac.md",
+    "무제 파일.md",
     "DATABACE/Session/Database Session.md",
+    "Tibero",
+    "DATABACE/Session/Worker Process.md",
     "DATABACE/Object/Object.md",
     "DATABACE/Object/온라인 인덱스.md",
     "DATABACE/Session",
