@@ -1,4 +1,4 @@
-
+cmrctl show 상황
 ```bash
 =====================================================================
   CLUSTER     TYPE        NAME       STATUS           DETAIL         
