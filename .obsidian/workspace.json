@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cmrctl del  segsegv 상황.md",
+                "file": "cmrctl del service --name '이름' segsegv 상황.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cmrctl del  segsegv 상황.md",
+                "file": "cmrctl del service --name '이름' segsegv 상황.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cmrctl del  segsegv 상황.md",
+                "file": "cmrctl del service --name '이름' segsegv 상황.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cmrctl del  segsegv 상황.md"
+                "file": "cmrctl del service --name '이름' segsegv 상황.md"
               }
             }
           }
@@ -194,7 +194,7 @@
   "active": "0762eab441dd411d",
   "lastOpenFiles": [
     "tac.md",
-    "cmrctl del  segsegv 상황.md",
+    "cmrctl del service --name '이름' segsegv 상황.md",
     "DATABACE/Session/Database Session.md",
     "Tibero",
     "DATABACE/Session/Worker Process.md",
