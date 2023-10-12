@@ -56,6 +56,14 @@
             }
           },
           {
+            "id": "f962c7c9b8228bb6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "92f393e83f7f81a7",
             "type": "leaf",
             "state": {
@@ -76,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -203,7 +211,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "65ef94336d4e0c4f",
+  "active": "f962c7c9b8228bb6",
   "lastOpenFiles": [
     "tac.md",
     "cmrctl del service --name '이름' segsegv 상황.md",
