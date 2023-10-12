@@ -59,8 +59,12 @@
             "id": "f962c7c9b8228bb6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DATABACE/lock/share lock.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -150,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "패치 할때 crf 파일 백업 꼭 해야한다.md",
+                "file": "DATABACE/lock/share lock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "패치 할때 crf 파일 백업 꼭 해야한다.md",
+                "file": "DATABACE/lock/share lock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "패치 할때 crf 파일 백업 꼭 해야한다.md"
+                "file": "DATABACE/lock/share lock.md"
               }
             }
           }
@@ -213,6 +217,8 @@
   },
   "active": "f962c7c9b8228bb6",
   "lastOpenFiles": [
+    "DATABACE/lock/exclusive lock.md",
+    "DATABACE/lock/Lock.md",
     "tac.md",
     "cmrctl del service --name '이름' segsegv 상황.md",
     "패치 할때 crf 파일 백업 꼭 해야한다.md",
@@ -226,8 +232,6 @@
     "DATABACE/Object/ROWNUM.md",
     "DATABACE/SQL/sql hint direct load insert.md",
     "DATABACE/SQL/insert 를 빠르게 하는법.md",
-    "DATABACE/lock/exclusive lock.md",
-    "DATABACE/lock/Lock.md",
     "DATABACE/lock/share lock.md",
     "DATABACE/Object",
     "DATABACE/Object/Undo Segment.md",
