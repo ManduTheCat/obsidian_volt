@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATABACE/lock/share lock.md",
+                "file": "Tibero/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DATABACE/lock/share lock.md",
+                "file": "Tibero/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DATABACE/lock/share lock.md",
+                "file": "Tibero/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DATABACE/lock/share lock.md"
+                "file": "Tibero/무제 파일.md"
               }
             }
           }
@@ -217,6 +217,8 @@
   },
   "active": "f962c7c9b8228bb6",
   "lastOpenFiles": [
+    "DATABACE/lock/share lock.md",
+    "Tibero/무제 파일.md",
     "DATABACE/lock/exclusive lock.md",
     "DATABACE/lock/Lock.md",
     "tac.md",
@@ -232,7 +234,6 @@
     "DATABACE/Object/ROWNUM.md",
     "DATABACE/SQL/sql hint direct load insert.md",
     "DATABACE/SQL/insert 를 빠르게 하는법.md",
-    "DATABACE/lock/share lock.md",
     "DATABACE/Object",
     "DATABACE/Object/Undo Segment.md",
     "OS/유닉스 와 리눅스 차이.md",
