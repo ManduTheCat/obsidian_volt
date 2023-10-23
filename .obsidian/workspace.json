@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tibero/무제 파일.md",
+                "file": "Tibero/TSC.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tibero/무제 파일.md",
+                "file": "Tibero/TSC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tibero/무제 파일.md",
+                "file": "Tibero/TSC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tibero/무제 파일.md"
+                "file": "Tibero/TSC.md"
               }
             }
           }
@@ -218,7 +218,7 @@
   "active": "f962c7c9b8228bb6",
   "lastOpenFiles": [
     "DATABACE/lock/share lock.md",
-    "Tibero/무제 파일.md",
+    "Tibero/TSC.md",
     "DATABACE/lock/exclusive lock.md",
     "DATABACE/lock/Lock.md",
     "tac.md",
