@@ -16,8 +16,15 @@ standvy -> primary
 
 ### stand by 에서 테이블 조회를 테스트
 
-다음을
+다음을 수행해 리커버리 모드를 read only로 바꿔줘야 확인할수 있다
 ```sql
 alter database open read only continue recovery;
+
+```
+
+이후 다시 리커버리 모드로 만들어줘야한다
+
+```sql
+alter database standby;
 
 ```
