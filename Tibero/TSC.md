@@ -12,3 +12,12 @@ cm 을 사용해서 자동 active stanby 간 replication 을 통해 데이터 �
 ### switch over
 pirmary -> standby 
 standvy -> primary
+
+
+### stand by 에서 테이블 조회를 테스트
+
+다음을
+```sql
+alter database open read only continue recovery;
+
+```
