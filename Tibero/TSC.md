@@ -7,3 +7,4 @@ cm 을 사용해서 자동 active stanby 간 replication 을 통해 데이터 �
 
 ## non-observer mode
 
+백업을 수동으로 해야하는 방법 즉 , 자동으로 replication 이
