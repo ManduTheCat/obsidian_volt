@@ -40,11 +40,13 @@
 
 
 ## 추가 질문
-* update 와 delete 중 누가더 느릴까
-* 선으
+* update 와 delete 중 누가더 느릴까?
+* 성능이 느린 delete 를 어떻게 하면 빠르게 할수 있을까?
 
 
 ###참조
 * delete 가 더 비용을 발생시키다.
 * 
 * http://www.gurubee.net/lecture/2283
+* delete 와 update 성능 최적화
+* https://dataonair.or.kr/db-tech-reference/d-story/data-story/?mod=document&uid=62944
