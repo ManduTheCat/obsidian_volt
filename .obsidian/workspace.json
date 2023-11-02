@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a5229264dc22622e",
+        "id": "cee2c5f8927a1b70",
         "type": "tabs",
         "children": [
           {
-            "id": "df130d37586a3610",
+            "id": "511b89bbb97cfe18",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DATABACE/SQL/sql hint direct load insert.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DATABACE/SQL/sql hint direct load insert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DATABACE/SQL/sql hint direct load insert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DATABACE/SQL/sql hint direct load insert.md"
+              }
             }
           }
         ]
@@ -138,16 +146,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "df130d37586a3610",
+  "active": "511b89bbb97cfe18",
   "lastOpenFiles": [
+    "DATABACE/SQL/insert 와 delete 의 차이.md",
+    "DATABACE/SQL/sql hint direct load insert.md",
     "DATABACE/Object/온라인 인덱스.md",
     "DATABACE/Session/Database Session.md",
     "tac.md",
     "cmrctl del service --name '이름' segsegv 상황.md",
     "패치 할때 crf 파일 백업 꼭 해야한다.md",
     "DATABACE/SQL/insert 를 빠르게 하는법.md",
-    "DATABACE/SQL/insert 와 delete 의 차이.md",
-    "DATABACE/SQL/sql hint direct load insert.md",
     "Tibero/TSC.md",
     "DATABACE/lock/share lock.md",
     "DATABACE/lock/exclusive lock.md",
