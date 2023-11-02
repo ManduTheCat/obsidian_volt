@@ -59,8 +59,36 @@
             "id": "f962c7c9b8228bb6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DATABACE/SQL/insert 를 빠르게 하는법.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd76ffeb4b062bfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DATABACE/SQL/insert 를 빠르게 하는법.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "012642b6dfced5eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DATABACE/SQL/insert 와 delete 의 차이.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -84,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -150,6 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DATABACE/SQL/insert 와 delete 의 차이.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,6 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DATABACE/SQL/insert 와 delete 의 차이.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +217,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DATABACE/SQL/insert 와 delete 의 차이.md"
+              }
             }
           }
         ]
@@ -207,9 +239,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f962c7c9b8228bb6",
+  "active": "012642b6dfced5eb",
   "lastOpenFiles": [
+    "DATABACE/SQL/insert 를 빠르게 하는법.md",
     "DATABACE/SQL/insert 와 delete 의 차이.md",
+    "DATABACE/SQL/sql hint direct load insert.md",
     "Tibero/TSC.md",
     "DATABACE/lock/share lock.md",
     "DATABACE/lock/exclusive lock.md",
@@ -225,8 +259,6 @@
     "DATABACE/Object/온라인 인덱스.md",
     "DATABACE/Session",
     "DATABACE/Object/ROWNUM.md",
-    "DATABACE/SQL/sql hint direct load insert.md",
-    "DATABACE/SQL/insert 를 빠르게 하는법.md",
     "DATABACE/Object",
     "DATABACE/Object/Undo Segment.md",
     "OS/유닉스 와 리눅스 차이.md",
