@@ -36,7 +36,7 @@
 ## 성능은INSERT 보다 DELETE 가 더느리다
 * 분명 성능에 영향을 주는 요소는 DELTE  가 더 적지만 동일한 데이터양에 대해선 DELETE 가 더느리다.
 * undo 를 진행하면서 이전데이터를 정보가 있냐 없냐 차이가 있기 떄문에 delete 가 더느림.
-* 
+* undo 는 디스크 IO 기 떄문에 더느리다.
 
 
 ## 추가 질문
@@ -45,8 +45,9 @@
 
 
 ###참조
+* dml 의 성능 고찰
+* http://www.gurubee.net/lecture/2283 
 * delete 가 더 비용을 발생시키다.
-* 
 * http://www.gurubee.net/lecture/2283
 * delete 와 update 성능 최적화
 * https://dataonair.or.kr/db-tech-reference/d-story/data-story/?mod=document&uid=62944
