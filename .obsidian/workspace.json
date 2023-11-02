@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tibero/TSC.md",
+                "file": "DATABACE/SQL/insert 와 delete 의 차이.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tibero/TSC.md",
+                "file": "DATABACE/SQL/insert 와 delete 의 차이.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tibero/TSC.md",
+                "file": "DATABACE/SQL/insert 와 delete 의 차이.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tibero/TSC.md"
+                "file": "DATABACE/SQL/insert 와 delete 의 차이.md"
               }
             }
           }
@@ -217,8 +217,9 @@
   },
   "active": "f962c7c9b8228bb6",
   "lastOpenFiles": [
-    "DATABACE/lock/share lock.md",
     "Tibero/TSC.md",
+    "DATABACE/SQL/insert 와 delete 의 차이.md",
+    "DATABACE/lock/share lock.md",
     "DATABACE/lock/exclusive lock.md",
     "DATABACE/lock/Lock.md",
     "tac.md",
