@@ -59,12 +59,8 @@
             "id": "f962c7c9b8228bb6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DATABACE/SQL/insert 와 delete 의 차이.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -154,7 +150,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DATABACE/SQL/insert 와 delete 의 차이.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +166,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DATABACE/SQL/insert 와 delete 의 차이.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,9 +187,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DATABACE/SQL/insert 와 delete 의 차이.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -217,8 +209,8 @@
   },
   "active": "f962c7c9b8228bb6",
   "lastOpenFiles": [
-    "Tibero/TSC.md",
     "DATABACE/SQL/insert 와 delete 의 차이.md",
+    "Tibero/TSC.md",
     "DATABACE/lock/share lock.md",
     "DATABACE/lock/exclusive lock.md",
     "DATABACE/lock/Lock.md",
