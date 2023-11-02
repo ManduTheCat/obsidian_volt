@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATABACE/SQL/sql hint direct load insert.md",
+                "file": "DATABACE/SQL/insert 와 delete 의 차이.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DATABACE/SQL/sql hint direct load insert.md",
+                "file": "DATABACE/SQL/insert 와 delete 의 차이.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DATABACE/SQL/sql hint direct load insert.md",
+                "file": "DATABACE/SQL/insert 와 delete 의 차이.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DATABACE/SQL/sql hint direct load insert.md"
+                "file": "DATABACE/SQL/insert 와 delete 의 차이.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "511b89bbb97cfe18",
   "lastOpenFiles": [
-    "DATABACE/SQL/insert 와 delete 의 차이.md",
     "DATABACE/SQL/sql hint direct load insert.md",
+    "DATABACE/SQL/insert 와 delete 의 차이.md",
     "DATABACE/Object/온라인 인덱스.md",
     "DATABACE/Session/Database Session.md",
     "tac.md",
