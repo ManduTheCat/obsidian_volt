@@ -43,3 +43,4 @@
 ###참조
 * delete 가 더 비용을 발생시키다.
 * 
+* http://www.gurubee.net/lecture/2283
