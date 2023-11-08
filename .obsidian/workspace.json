@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "157be8d7596032ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DATABACE/Object/온라인 인덱스.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "92f393e83f7f81a7",
             "type": "leaf",
             "state": {
@@ -88,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tibero/TSC.md",
+                "file": "DATABACE/Object/온라인 인덱스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tibero/TSC.md",
+                "file": "DATABACE/Object/온라인 인덱스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tibero/TSC.md"
+                "file": "DATABACE/Object/온라인 인덱스.md"
               }
             }
           }
@@ -215,7 +227,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f962c7c9b8228bb6",
+  "active": "d82a90a3765e3847",
   "lastOpenFiles": [
     "DATABACE/lock/share lock.md",
     "Tibero/TSC.md",
