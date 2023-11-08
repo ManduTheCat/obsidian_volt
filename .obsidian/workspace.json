@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATABACE/Object/온라인 인덱스.md",
+                "file": "DATABACE/Object/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DATABACE/Object/온라인 인덱스.md",
+                "file": "DATABACE/Object/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DATABACE/Object/온라인 인덱스.md",
+                "file": "DATABACE/Object/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DATABACE/Object/온라인 인덱스.md"
+                "file": "DATABACE/Object/무제 파일.md"
               }
             }
           }
@@ -227,8 +227,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d82a90a3765e3847",
+  "active": "157be8d7596032ef",
   "lastOpenFiles": [
+    "DATABACE/Object/Object.md",
+    "DATABACE/Object/무제 파일.md",
+    "DATABACE/Object/온라인 인덱스.md",
+    "DATABACE/Object/redo log 확인.md",
+    "DATABACE/Object/ROWNUM.md",
     "DATABACE/lock/share lock.md",
     "Tibero/TSC.md",
     "DATABACE/lock/exclusive lock.md",
@@ -240,10 +245,7 @@
     "DATABACE/Session/Database Session.md",
     "Tibero",
     "DATABACE/Session/Worker Process.md",
-    "DATABACE/Object/Object.md",
-    "DATABACE/Object/온라인 인덱스.md",
     "DATABACE/Session",
-    "DATABACE/Object/ROWNUM.md",
     "DATABACE/SQL/sql hint direct load insert.md",
     "DATABACE/SQL/insert 를 빠르게 하는법.md",
     "DATABACE/Object",

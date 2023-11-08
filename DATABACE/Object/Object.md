@@ -3,3 +3,5 @@
 [[ROWNUM]]
 
 [[Undo Segment]]
+
+[[redo log 확인]]
