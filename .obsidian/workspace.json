@@ -18,89 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "cc45dd66a6b9e76d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tac.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0762eab441dd411d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cmrctl del service --name '이름' segsegv 상황.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65ef94336d4e0c4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "패치 할때 crf 파일 백업 꼭 해야한다.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f962c7c9b8228bb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tibero/TSC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "157be8d7596032ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DATABACE/Object/무제 파일.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92f393e83f7f81a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DATABACE/Object/온라인 인덱스.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1566c2498313376",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DATABACE/Object/무제 파일.md",
+                "file": "DATABACE/Session/Database Session.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DATABACE/Object/무제 파일.md",
+                "file": "DATABACE/Session/Database Session.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DATABACE/Object/무제 파일.md"
+                "file": "DATABACE/Session/Database Session.md"
               }
             }
           }
@@ -227,30 +146,30 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "157be8d7596032ef",
+  "active": "0a9fe4fa63863c3e",
   "lastOpenFiles": [
-    "DATABACE/Object/Object.md",
-    "DATABACE/Object/무제 파일.md",
-    "DATABACE/Object/온라인 인덱스.md",
-    "DATABACE/Object/redo log 확인.md",
-    "DATABACE/Object/ROWNUM.md",
-    "DATABACE/lock/share lock.md",
-    "Tibero/TSC.md",
-    "DATABACE/lock/exclusive lock.md",
-    "DATABACE/lock/Lock.md",
     "tac.md",
     "cmrctl del service --name '이름' segsegv 상황.md",
     "패치 할때 crf 파일 백업 꼭 해야한다.md",
-    "무제 폴더",
-    "DATABACE/Session/Database Session.md",
-    "Tibero",
-    "DATABACE/Session/Worker Process.md",
-    "DATABACE/Session",
-    "DATABACE/SQL/sql hint direct load insert.md",
-    "DATABACE/SQL/insert 를 빠르게 하는법.md",
-    "DATABACE/Object",
-    "DATABACE/Object/Undo Segment.md",
+    "Tibero/TSC.md",
+    "DATABACE/Object/ROWNUM.md",
+    "DATABACE/Object/온라인 인덱스.md",
     "OS/유닉스 와 리눅스 차이.md",
+    "DATABACE/SQL/insert 를 빠르게 하는법.md",
+    "DATABACE/SQL/sql hint direct load insert.md",
+    "DATABACE/Object/Object.md",
+    "DATABACE/Object/테이블 스페이스 확인.md",
+    "DATABACE/Object/Undo Segment.md",
+    "DATABACE/lock/Lock.md",
+    "DATABACE/Session/Worker Process.md",
+    "DATABACE/Session/Database Session.md",
+    "DATABACE/Object/redo log 확인.md",
+    "DATABACE/lock/share lock.md",
+    "DATABACE/lock/exclusive lock.md",
+    "무제 폴더",
+    "Tibero",
+    "DATABACE/Session",
+    "DATABACE/Object",
     "Pasted image 20230913092719.png.md",
     "Pasted image 20230925135000.png.md",
     "OS/Pasted image 20230925135000.png",
