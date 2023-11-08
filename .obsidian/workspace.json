@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATABACE/lock/share lock.md",
+                "file": "DATABACE/Object/table space 조회.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DATABACE/lock/share lock.md",
+                "file": "DATABACE/Object/table space 조회.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DATABACE/lock/share lock.md",
+                "file": "DATABACE/Object/table space 조회.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DATABACE/lock/share lock.md"
+                "file": "DATABACE/Object/table space 조회.md"
               }
             }
           }
@@ -183,8 +183,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d82a90a3765e3847",
+  "active": "fd3c452eec1f521f",
   "lastOpenFiles": [
+    "DATABACE/lock/share lock.md",
+    "DATABACE/Object/table space 조회.md",
     "DATABACE/Object/redo log 확인.md",
     "DATABACE/Object/ROWNUM.md",
     "conflict-files-obsidian-git.md",
@@ -200,11 +202,9 @@
     "Tibero/TSC.md",
     "패치 할때 crf 파일 백업 꼭 해야한다.md",
     "cmrctl del service --name '이름' segsegv 상황.md",
-    "DATABACE/Object/무제 파일.md",
     "tac.md",
     "OS/유닉스 와 리눅스 차이.md",
     "DATABACE/lock/Lock.md",
-    "DATABACE/lock/share lock.md",
     "DATABACE/lock/exclusive lock.md",
     "무제 폴더",
     "Tibero",
