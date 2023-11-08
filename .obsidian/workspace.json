@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bf7488212a1498c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DATABACE/Object/Object.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17860f05d57aa626",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DATABACE/SQL/sql hint direct load insert.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd3c452eec1f521f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DATABACE/Session/Database Session.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DATABACE/Session/Database Session.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DATABACE/Session/Database Session.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -146,25 +183,27 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0a9fe4fa63863c3e",
+  "active": "fd3c452eec1f521f",
   "lastOpenFiles": [
-    "DATABACE/Object/무제 파일.md",
-    "tac.md",
-    "cmrctl del service --name '이름' segsegv 상황.md",
-    "패치 할때 crf 파일 백업 꼭 해야한다.md",
-    "Tibero/TSC.md",
-    "DATABACE/Object/ROWNUM.md",
-    "DATABACE/Object/온라인 인덱스.md",
-    "OS/유닉스 와 리눅스 차이.md",
-    "DATABACE/SQL/insert 를 빠르게 하는법.md",
     "DATABACE/SQL/sql hint direct load insert.md",
+    "conflict-files-obsidian-git.md",
     "DATABACE/Object/Object.md",
     "DATABACE/Object/테이블 스페이스 확인.md",
-    "DATABACE/Object/Undo Segment.md",
-    "DATABACE/lock/Lock.md",
-    "DATABACE/Session/Worker Process.md",
-    "DATABACE/Session/Database Session.md",
+    "DATABACE/Object/온라인 인덱스.md",
     "DATABACE/Object/redo log 확인.md",
+    "DATABACE/Object/ROWNUM.md",
+    "DATABACE/Object/Undo Segment.md",
+    "DATABACE/Session/Database Session.md",
+    "DATABACE/Session/Worker Process.md",
+    "DATABACE/SQL/insert 를 빠르게 하는법.md",
+    "DATABACE/SQL/insert 와 delete 의 차이.md",
+    "Tibero/TSC.md",
+    "패치 할때 crf 파일 백업 꼭 해야한다.md",
+    "cmrctl del service --name '이름' segsegv 상황.md",
+    "DATABACE/Object/무제 파일.md",
+    "tac.md",
+    "OS/유닉스 와 리눅스 차이.md",
+    "DATABACE/lock/Lock.md",
     "DATABACE/lock/share lock.md",
     "DATABACE/lock/exclusive lock.md",
     "무제 폴더",
@@ -179,12 +218,10 @@
     "DATABACE/OBJECT/undoSegment.md",
     "DATABACE/OBJECT/ROWNUM.md",
     "DATABACE/OBJECT/온라인 인덱스.md",
-    "DATABACE/lock/무제 파일.md",
     "DATABACE/lock",
     "DATABACE/OBJECT",
     "DATABACE/SQL",
     "DATABACE",
-    "tibero",
-    "Pasted image 20230913092425.png.md"
+    "tibero"
   ]
 }
