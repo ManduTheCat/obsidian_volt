@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATABACE/SQL/insert 와 delete 의 차이.md",
+                "file": "DATABACE/lock/exclusive lock.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DATABACE/SQL/insert 와 delete 의 차이.md",
+                "file": "DATABACE/lock/exclusive lock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DATABACE/SQL/insert 와 delete 의 차이.md",
+                "file": "DATABACE/lock/exclusive lock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DATABACE/SQL/insert 와 delete 의 차이.md"
+                "file": "DATABACE/lock/exclusive lock.md"
               }
             }
           }
@@ -185,6 +185,7 @@
   },
   "active": "fd3c452eec1f521f",
   "lastOpenFiles": [
+    "DATABACE/SQL/insert 와 delete 의 차이.md",
     "DATABACE/SQL/sql hint direct load insert.md",
     "DATABACE/SQL/insert 를 빠르게 하는법.md",
     "DATABACE/Object/table space 조회.md",
@@ -198,7 +199,6 @@
     "DATABACE/Object/Undo Segment.md",
     "DATABACE/Session/Database Session.md",
     "DATABACE/Session/Worker Process.md",
-    "DATABACE/SQL/insert 와 delete 의 차이.md",
     "Tibero/TSC.md",
     "패치 할때 crf 파일 백업 꼭 해야한다.md",
     "cmrctl del service --name '이름' segsegv 상황.md",
