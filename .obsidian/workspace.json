@@ -54,9 +54,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bbf22f1b71de3bfd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -183,7 +193,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fd3c452eec1f521f",
+  "active": "bbf22f1b71de3bfd",
   "lastOpenFiles": [
     "DATABACE/SQL/insert 와 delete 의 차이.md",
     "DATABACE/SQL/sql hint direct load insert.md",
