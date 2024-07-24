@@ -74,9 +74,29 @@
                 "currentVersion": "1.5.8"
               }
             }
+          },
+          {
+            "id": "509c05daeaa16baf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
+          },
+          {
+            "id": "f1c430e4d14f10d8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -203,7 +223,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ee3f05d933bc3efc",
+  "active": "f1c430e4d14f10d8",
   "lastOpenFiles": [
     "DATABACE/SQL/insert 와 delete 의 차이.md",
     "DATABACE/SQL/sql hint direct load insert.md",
