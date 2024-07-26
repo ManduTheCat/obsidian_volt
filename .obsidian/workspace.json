@@ -86,12 +86,12 @@
             }
           },
           {
-            "id": "f1c430e4d14f10d8",
+            "id": "f8e211a143dde79c",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.6.5"
+                "currentVersion": "1.6.7"
               }
             }
           }
@@ -223,7 +223,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f1c430e4d14f10d8",
+  "active": "f8e211a143dde79c",
   "lastOpenFiles": [
     "DATABACE/SQL/insert 와 delete 의 차이.md",
     "DATABACE/SQL/sql hint direct load insert.md",
