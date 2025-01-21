@@ -16,7 +16,9 @@
                 "file": "DATABACE/Session/Database Session.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Database Session"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "DATABACE/Object/Object.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Object"
             }
           },
           {
@@ -40,7 +44,9 @@
                 "file": "DATABACE/SQL/sql hint direct load insert.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "sql hint direct load insert"
             }
           },
           {
@@ -52,7 +58,9 @@
                 "file": "DATABACE/lock/exclusive lock.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "exclusive lock"
             }
           },
           {
@@ -62,7 +70,9 @@
               "type": "release-notes",
               "state": {
                 "currentVersion": "1.5.3"
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.5.3"
             }
           },
           {
@@ -72,7 +82,9 @@
               "type": "release-notes",
               "state": {
                 "currentVersion": "1.5.8"
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.5.8"
             }
           },
           {
@@ -82,7 +94,9 @@
               "type": "release-notes",
               "state": {
                 "currentVersion": "1.5.12"
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.5.12"
             }
           },
           {
@@ -92,11 +106,25 @@
               "type": "release-notes",
               "state": {
                 "currentVersion": "1.6.7"
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.6.7"
+            }
+          },
+          {
+            "id": "f5dce0ef1b5814a3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -116,7 +144,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -131,7 +161,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -139,7 +171,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -162,7 +196,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DATABACE/lock/exclusive lock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +203,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
             }
           },
           {
@@ -179,10 +214,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DATABACE/lock/exclusive lock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
             }
           },
           {
@@ -193,7 +229,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -201,9 +239,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DATABACE/lock/exclusive lock.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "개요"
             }
           }
         ]
@@ -223,7 +261,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f8e211a143dde79c",
+  "active": "f5dce0ef1b5814a3",
   "lastOpenFiles": [
     "DATABACE/SQL/insert 와 delete 의 차이.md",
     "DATABACE/SQL/sql hint direct load insert.md",
